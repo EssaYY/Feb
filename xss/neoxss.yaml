@@ -1,0 +1,35 @@
+# id contains the unique identifier for the template.
+id: neoseesorxss
+
+info:
+  # Name is the name of the template
+  name: URl based xss
+  author: esetal
+  # Severity is the severity for the template.
+  severity: medium
+  #  Description optionally describes the template.
+  description: Searches for reflected XSS in the server response via GET-requests.
+  tags: xss
+
+requests:
+  - method: GET
+    path:
+      - "{{BaseURL}}/%61%27%22%3e%3c%69%6e%6a%65%63%74%61%62%6c%65%3e%3c%73%76%67%2f%6f%6e%6c%6f%61%64%3d%61%6c%65%72%74%28%33%29%3e"
+   
+   redirects: true
+    max-redirects: 1
+    matchers-condition: and
+    matchers:
+      - type: word
+        words:
+          - "<svg/onload=alert(3)>"
+        part: body
+
+      - type: word
+        words:
+          - "text/html"
+        part: header
+
+      - type: status
+        status:
+          - 200
