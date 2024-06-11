@@ -1,0 +1,254 @@
+1  ls
+    2  sudo ls
+    3  clear
+    4  wget https://go.dev/dl/go1.17.6.linux-amd64.tar.gz
+    5  sudo rm -rf /usr/local/go
+    6  sudo tar -C /usr/local -xvf go1.17.6.linux-amd64.tar.gz
+    7  echo 'export GOROOT=/usr/local/go' >> .bashrc
+    8  echo 'export GOPATH=$HOME/go' >> .bashrc
+    9  echo 'export PATH=$GOPATH/bin:$GOROOT/bin:$HOME/.local/bin:$PATH' >> .bashrc
+   10  source ~/.bashrc
+   11  go install -v github.com/projectdiscovery/nuclei/v2/cmd/nuclei@latest
+   12  go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
+   13  httpx
+   14  nuclei
+   15  nucliei -help
+   16  ls
+   17  rm -rf go1.17.6.linux-amd64.tar.gz
+   18  clear
+   19  ls
+   20  go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+   21  clear
+   22  subfinder -h
+   23  clear
+   24  httpx
+   25  clear
+   26  dirsearch
+   27  clear
+   28  python3 dirsearch
+   29  clear
+   30  ls
+   31  dirsearch
+   32  dirsearch.py
+   33  clear
+   34  python
+   35  python3
+   36  clear
+   37  pip3 install dirsearch
+   38  clear
+   39  apt-get install dirsearch
+   40  sudo apt-get install dirsearch
+   41  clear
+   42  git clone https://github.com/maurosoria/dirsearch.git
+   43  clear
+   44  ls
+   45  cd dirsearch
+   46  ls
+   47  python setup.py
+   48  python3 setup.py
+   49  clear
+   50  python3 setup.py
+   51  clear
+   52  setup.py
+   53  clear
+   54  ls
+   55  python3 dirsearch.py
+   56  clear
+   57  ls
+   58  pip install requirements.txt
+   59  pip3 install requirements.txt
+   60  cat README.md
+   61  cler
+   62  clear
+   63  python3 dirsearch.py -h
+   64  pip3 install -r requirements.txt
+   65  apt-get install pip3
+   66  clear
+   67  cd
+   68  clear
+   69  apt install python3-pip
+   70  sudo apt install python3-pip
+   71  clear
+   72  cd
+   73  ls
+   74  cd cd dirsearch
+   75  cd dirsearch
+   76  clear
+   77  ls
+   78  pip3 install -r requirements.txt
+   79  clear
+   80  pyton3 dirsearch.py
+   81  python3 dirsearch.py
+   82  clear
+   83  python3 dirsearch.py -u https://inacome.jp/ -E
+   84  python3 dirsearch.py -u https://inacome.jp/ -e
+   85  python3 dirsearch.py -u https://inacome.jp/ -e php
+   86  clear
+   87  cd
+   88  clear
+   89  nuclei -u https://inacome.jp/
+   90  https://inacome.jp/?page_id=2&%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+   91  clear
+   92  nuclei -u https://inacome.jp/
+   93  clear
+   94  nuclei -u
+   95  clear
+   96  nuclei -u https://www.mixmax.com/
+   97  clear
+   98  nuclei -u http://osdorp.nl/
+   99  clear
+  100  sudo apt-get update
+  101  clear
+  102  history
+  103  nuclei -u maler-as.de
+  104  nuclei -u https://siff.io/
+  105  wpscan
+  106  clear
+  107  ls
+  108  wget https://github.com/tb0hdan/domains/blob/master/data/generic_com/domain2multi-com4e.txt.xz
+  109  ls
+  110  ls -la
+  111  dnf install xz
+  112  apt install xz-utils
+  113  sudo apt install xz-utils
+  114  tar -xf domain2multi-com4e.txt.xz
+  115  sudo apt install xz-utils
+  116  tar --xz -xf domain2multi-com4e.txt.xz
+  117  tar --xz -xf domain2multi-com4e.txt.xz sadf.txt
+  118  tar -xf domain2multi-com4e.txt.xz sadf.txt
+  119  git clone https://github.com/tb0hdan/domains.git
+  120  cd domains
+  121  git lfs install
+  122  echo dump |ncat 8.214.102.253 2181
+  123  sudo apt install ncat
+  124  echo dump |ncat 8.214.102.253 2181
+  125  echo envi |ncat 8.214.102.253 2181
+  126  echo reqs |ncat 8.214.102.253 2181
+  127  echo ruok |ncat 8.214.102.253 2181
+  128  echo stat |ncat 8.214.102.253 2181
+  129  git clone https://github.com/subhash0x/allxss.git
+  130  git config credential.helper store
+  131  ls
+  132  cd allxss/
+  133  git config credential.helper store
+  134  git config --global credential.helper cache
+  135  cd ..
+  136  git clonehttps://github.com/subhash0x/tim3Machine.git
+  137  git clone https://github.com/subhash0x/tim3Machine.git
+  138  git config --global credential.helper cache
+  139  git clone https://github.com/subhash0x/tim3Machine.git
+  140  rm -rf tim3Machine/
+  141  git clone https://github.com/subhash0x/tim3Machine.git
+  142  ls
+  143  rm -rf domain2multi-com4e.txt.xz
+  144  ls
+  145  crontab
+  146  crontab -i
+  147  crontab -e
+  148  cd domain
+  149  cd domains
+  150  ls
+  151  cd ..
+  152  curl -I http://s3.amazonaws.com/alexa-static/top-1m.csv.zip
+  153  unzip top-1m.csv.zip
+  154  sudo apt install unzip
+  155  unzip top-1m.csv.zip
+  156  ls
+  157  wget http://s3.amazonaws.com/alexa-static/top-1m.csv.zip
+  158  unzip top-1m.csv.zip
+  159  ls
+  160  tail -n 10 top-1m.csv
+  161  awk -F "\"*,\"*" '{print $2}' top-1m.csv
+  162  awk -F "\"*,\"*" '{print $2}' top-1m.csv >> alexa.txt
+  163  ls
+  164  ls -la
+  165  ls
+  166  rm -rf top-1m.csv
+  167  rm -rf top-1m.csv.zip
+  168  ls
+  169  mkdir social
+  170  mv alexa.txt ~/social/
+  171  ls
+  172  clear
+  173  ls
+  174  cd dirsearch
+  175  clear
+  176  python3 dirsearch.py -u https://alexwykoff.com/ -E
+  177  python3 dirsearch.py -u https://alexwykoff.com/ -e
+  178  clear
+  179  python3 dirsearch.py -u https://alexwykoff.com/ -e php
+  180  clear~
+  181  python3 dirsearch.py -u http://melbjs.com/ -e php
+  182  cd dirsearch
+  183  python3 dirsearch.py -u http://melbjs.com/ -e php
+  184  clear
+  185  cd
+  186  clear
+  187  history | grep nuclei
+  188  nuclei -u http://melbjs.com/
+  189  clear
+  190  nuclei -u http://melbjs.com/
+  191  nuclei -u https://naugtur.pl/
+  192  clear
+  193  nuclei -u https://dcpos.ch/
+  194  git clone https://github.com/m3n0sd0n4ld/GooFuzz.git
+  195  cd GooFuzz
+  196  chmod +x GooFuzz
+  197  ./GooFuzz -h
+  198  ./GooFuzz -t https://103.235.104.103
+  199  ./GooFuzz -t 103.235.104.103
+  200  ./GooFuzz -t bowvalleycollege.ca
+  201  ./GooFuzz -t bowvalleycollege.ca -e pdf
+  202  ./GooFuzz -t bowvalleycollege.ca -e pdf,ashx
+  203  ./GooFuzz -t bowvalleycollege.ca -e xls
+  204  ./GooFuzz -t bowvalleycollege.ca -e .rar
+  205  ./GooFuzz -t bowvalleycollege.ca -e rar
+  206  ./GooFuzz -t bowvalleycollege.ca -e zip
+  207  ./GooFuzz -t bowvalleycollege.ca -e
+  208  ./GooFuzz -t bowvalleycollege.ca -e zip -p
+  209  ./GooFuzz -t bowvalleycollege.ca -e zip -p 2
+  210  ./GooFuzz -t bowvalleycollege.ca -e zip -p 10
+  211  ./GooFuzz -t 103.235.104.103 -e zo[
+  212  ./GooFuzz -t 103.235.104.103 -e zip
+  213  ./GooFuzz -t 103.235.104.103 -e ./
+  214  ./GooFuzz -t 103.235.104.103 -e .
+  215  ./GooFuzz -t 103.235.104.103 -e
+  216  ls
+  217  ./GooFuzz -t 103.235.104.103 -e extensions.txt
+  218  ./GooFuzz -t bowvalleycollege.ca -e extensions.txt
+  219  ./GooFuzz -t mybvc.ca -e extensions.txt
+  220  ./GooFuzz -t payfit.com -e extensions.txt
+  221  ./GooFuzz -t payfit.io -e extensions.txt
+  222  ./GooFuzz -t payfit.info -e extensions.txt
+  223  ./GooFuzz -t payfit.de -e extensions.txt
+  224  ./GooFuzz -t elastic.co -e extensions.txt
+  225  ./GooFuzz -t eops.nl -e extensions.txt
+  226  ./GooFuzz -t swiftype.com -e extensions.txt
+  227  ./GooFuzz -t qatar-sc.com -e extensions.txt
+  228  ./GooFuzz -t oofifa.com -e extensions.txt
+  229  ls
+  230  ls -la
+  231  ;s
+  232  ls
+  233  history
+  234  ls
+  235  clear
+  236  ls
+  237  bash automation.sh
+  238  clear
+  239  cat alexa.txt
+  240  clear
+  241  ls
+  242  cd allxss
+  243  ls
+  244  clear
+  245  cd
+  246  date
+  247  ls
+  248  cd results
+  249  cd result
+  250  ls
+  251  history
+  252  ls
+  253  date
+  254  history
